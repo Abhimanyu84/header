@@ -1,3 +1,2 @@
 # header
-This is header for our Project
-and also footer
+header and footer for our project
